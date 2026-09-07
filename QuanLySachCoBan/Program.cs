@@ -6,6 +6,7 @@ namespace QuanLySachCoBan
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("6551071041");
             // Tao sach bang constructor day du
             Sach sach1 = new Sach(
                 "S001",
