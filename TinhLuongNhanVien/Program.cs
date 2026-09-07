@@ -6,6 +6,7 @@ namespace TinhLuongNhanVien
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("6551071041");
             // Nhan vien 1
             // Su dung constructor khong tham so
             NhanVien nv1 = new NhanVien();
