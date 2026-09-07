@@ -7,6 +7,7 @@ namespace QuanLySanPhamCuaHang
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("6551071041");
             // Tao danh sach san pham
             List<SanPham> danhSach = new List<SanPham>
             {
